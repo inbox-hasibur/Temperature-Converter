@@ -2,7 +2,6 @@
 int main() 
 {
     int x;
-
     printf("Chose Conversion menu :\n");
     printf("1. Celsius to Fahrenheit\n");
     printf("2. Celsius to Kelvin\n");
@@ -11,7 +10,6 @@ int main()
     printf("5. Kelvin to Celsius\n");
     printf("6. Kelvin to Fahrenheit\n");
     printf("Enter Your Choice : ");
-
     scanf("%d", &x);
 
     switch(x)
