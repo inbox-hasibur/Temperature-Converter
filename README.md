@@ -1,2 +1,2 @@
 # Temperature-Converter
-Basic 
+Basic Temperature Convertion Code in C programming language.
